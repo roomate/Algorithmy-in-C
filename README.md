@@ -5,4 +5,4 @@ how the memory is managed by the computer, e.g. allocated or freed, and quit the
 Each of these courses has a specific theme: 
 - IN101: Algorithmy et programmation. This course teach how to efficiently solve a given problem with an algorithm written in C.
 - IN102: Advanced C language. This course introduces the syntax of the C language and some important notions of low-level language such as pointer, struct and memory allocation.
-- IN103: Resolution of algorithmic problems. This course introduces the more important data structure in an engineer career; dictionnary, tree, queue... Each TP is a mini-project putting in practice these important examples.
+- IN103: Resolution of algorithmic problems. This course introduces the more important data structures often employed in real-world applications; dictionnary, tree, queue... Each TP is a mini-project putting in practice these important examples.
