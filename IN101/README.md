@@ -1,1 +1,1 @@
-This folder presents 
+This folder presents all the practical sessions (except one) realised in IN101 course. The concepts of recursivity, struct and pointers are deepened, as the success of these exercices relies on a good mastery of them.
